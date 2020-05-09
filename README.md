@@ -50,3 +50,33 @@ ___
 `<p> This is a paragraph </p>`
 <!-- Images -->
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
+
+<!-- Github Markdown -->
+
+<!-- Code Blocks -->
+
+``` bash
+npm install
+npm start
+```
+``` javascript 
+function add(num1, num2){
+    return num1 + num2;
+}
+```
+
+``` python 
+def add(num1, num2):
+    return num1 + num2;
+```
+<!-- Table -->
+|Name   |Email                |
+|-------|---------------------|
+|Farhad | farhad1556@gmail.com|
+|parvej | sparvej@gmail.com   |
+
+<!-- Task List -->
+
+* [x] Task 1 
+* [x] Task 2
+* [x] Task 3 
